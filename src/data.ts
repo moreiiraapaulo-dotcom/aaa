@@ -26,7 +26,7 @@ export const SOCIAL_LINKS: LinkItem[] = [
     id: 'tiktok',
     title: 'Afiliação Guia do Glow UP',
     subtitle: 'Treinos, rotina diária e receitas fit',
-    url: 'https://dashboard.kiwify.com/join/affiliate/TMV1ruD0',
+    url: 'https://dashboard.kiwify.com/join/affiliate/oDgKDcLE',
     iconName: 'Video',
     image: 'https://scontent-gru1-2.xx.fbcdn.net/v/t1.15752-9/728333671_1760382132080075_6071192769964366362_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=k4HUm-VaGBQQ7kNvwGUGoN0&_nc_oc=Adr1Wmtn2YyQa-rty8OuMTjraHiY89WnG97K7_MjGWsE0cNdt22velFbWghBBDFT_JT_bHHAqPvwIHjwklho46UA&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&_nc_ss=7b6a8&oh=03_Q7cD5gGzOHPgevqa7p5XMn8qyRQV1LLFYHn8n5exJRbsR85J5w&oe=6A6822FB',
   },
